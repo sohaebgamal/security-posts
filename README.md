@@ -16,3 +16,13 @@ Illustrative content only: no client names, no live targets, authorized-testing 
 | 2026-10-30 | [AD CS ESC1: logging in as someone else](ctf-lessons/08-adcs-esc1.md) |
 | 2026-10-30 | [Hardcoded credentials in a mobile app](ctf-lessons/09-hardcoded-credentials-mobile-app.md) |
 | 2026-10-30 | [Command injection in an admin-only tool](ctf-lessons/10-command-injection-admin-tool.md) |
+| 2026-11-02 | [A path allowlist that contained the secret](ctf-lessons/11-lfi-allowlist-contains-secret.md) |
+| 2026-11-02 | [A vault is only as strong as its master password](ctf-lessons/12-vault-master-password.md) |
+| 2026-11-02 | [A Tomcat race condition: static upload, executed code](ctf-lessons/13-tomcat-race-condition.md) |
+| 2026-11-02 | [SSRF to cloud metadata credentials](ctf-lessons/14-ssrf-cloud-metadata.md) |
+| 2026-11-02 | [LLM refusals are not access control](ctf-lessons/15-llm-prompt-secrets.md) |
+| 2026-11-02 | [Secrets live on in git history](ctf-lessons/16-secrets-in-git-history.md) |
+| 2026-11-02 | [Password spraying and policy-compliant passwords](ctf-lessons/17-password-spraying.md) |
+| 2026-11-02 | [AS-REP roasting: one checkbox, crackable hashes](ctf-lessons/18-asrep-roasting.md) |
+| 2026-11-02 | [Pass-the-Hash and reused local admin passwords](ctf-lessons/19-pass-the-hash-local-admin.md) |
+| 2026-11-02 | [Cached Domain Admin credentials on a workstation](ctf-lessons/20-cached-domain-admin-credentials.md) |
